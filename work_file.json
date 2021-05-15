@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "19993",
+    "date": "2019-03-26 12:44:17",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Голубицкий",
+          "first_name": "Владислав",
+          "patronymic_name": "Викторович",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ ДЕЛЕГАЦИИ",
+          "changed": true
+        },
+        {
+          "last_name": "Елкина",
+          "first_name": "Дарья",
+          "patronymic_name": "Алексеевна",
+          "class": 11,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Жданова",
+          "first_name": "Вероника",
+          "patronymic_name": "Игоревна",
+          "class": 11,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Фильчак",
+          "first_name": "Полина",
+          "patronymic_name": "Олеговна",
+          "class": 0,
+          "role": "АВТОР",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 22730,
+        "number": "190870",
+        "title": "Определение сорта и качества меда по результатам ДНК-анализа",
+        "isCollective": false,
+        "section": {
+          "id": 430,
+          "title": "Фундаментальная медицина, профилактика заболеваний, медицинская генетика (Fundamental medicine, disease prevention, medical genetics)"
+        },
+        "authors": [
+          {
+            "name": "Елкина Дарья Алексеевна",
+            "age": 17,
+            "class": 11,
+            "changed": true
+          },
+          {
+            "name": "Фильчак Полина Олеговна",
+            "age": 16,
+            "class": 11,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Сотников Егор Борисович, Нарватова Елизавета Владимировна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 22731,
+        "number": "190871",
+        "title": "Тестирование экспресс-методов определения фальсификации мёда",
+        "isCollective": false,
+        "section": {
+          "id": 433,
+          "title": "Химия (Chemistry)"
+        },
+        "authors": [
+          {
+            "name": "Жданова Вероника Игоревна",
+            "age": 17,
+            "class": 11,
+            "changed": true
+          },
+          {
+            "name": "Иванов Пётр Иванович",
+            "age": 15,
+            "class": 9,
+            "changed": false
+          }
+        ],
+        "teacher": {
+          "name": "Яковлева Светлана Анатольевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      }
+    ],
+    "organization": {
+      "name": "Ботанический сад БФУ им. Канта",
+      "city": "БОЛЬШОЕ ИСАКОВО",
+      "country": "Россия",
+      "address_id": "8460",
+      "independence": "0",
+      "inIsslevodatel": true
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "19594",
+    "date": "2019-03-20 14:44:18",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Козлов",
+          "first_name": "Иван",
+          "patronymic_name": "Алексеевич",
+          "class": 9,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Серкова",
+          "first_name": "Юлия",
+          "patronymic_name": "Андреевна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Соловьев",
+          "first_name": "Сергей",
+          "patronymic_name": "Михайлович",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ ДЕЛЕГАЦИИ / РУКОВОДИТЕЛЬ РАБОТЫ",
+          "changed": true
+        },
+        {
+          "last_name": "Титов",
+          "first_name": "Максим",
+          "patronymic_name": "Витальевич",
+          "class": 8,
+          "role": "АВТОР",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 21935,
+        "number": "190075",
+        "title": "Влияние шунгитовой воды на рост и развитие томатов гибрида Гном и получение экологически чистой продукции",
+        "isCollective": false,
+        "section": {
+          "id": 431,
+          "title": "Агробиология, агрохимия, защита растений (Agricultural Biology and Chemistry, Plant Protection)"
+        },
+        "authors": [
+          {
+            "name": "Титов Максим Витальевич",
+            "age": 14,
+            "class": 8,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Соловьев Сергей Михайлович",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 21954,
+        "number": "190094",
+        "title": "Влияние азотных удобрений на получение экологически чистой биомассы мяты",
+        "isCollective": false,
+        "section": {
+          "id": 431,
+          "title": "Агробиология, агрохимия, защита растений (Agricultural Biology and Chemistry, Plant Protection)"
+        },
+        "authors": [
+          {
+            "name": "Серкова Юлия Андреевна",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Соловьев Сергей Михайлович",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 21955,
+        "number": "190095",
+        "title": "Влияние растительного белка миракулина, содержащегося в плодах синсепалума и в препарате \"Miracle Frooties\", на организм человека",
+        "isCollective": false,
+        "section": {
+          "id": 430,
+          "title": "Фундаментальная медицина, профилактика заболеваний, медицинская генетика (Fundamental medicine, disease prevention, medical genetics)"
+        },
+        "authors": [
+          {
+            "name": "Козлов Иван Алексеевич",
+            "age": 15,
+            "class": 9,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Соловьев Сергей Михайлович",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      }
+    ],
+    "organization": {
+      "name": "МОУ СОШ №20",
+      "city": "ПОДОЛЬСК",
+      "country": "Россия",
+      "address_id": "15014",
+      "independence": "0",
+      "inIsslevodatel": true
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "19634",
+    "date": "2019-03-27 15:30:15",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Биттер",
+          "first_name": "Владимир",
+          "patronymic_name": "Андреевич",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ ДЕЛЕГАЦИИ / РУКОВОДИТЕЛЬ РАБОТЫ",
+          "changed": true
+        },
+        {
+          "last_name": "Биттер",
+          "first_name": "Григорий",
+          "patronymic_name": "Владимирович",
+          "class": 8,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Конькова",
+          "first_name": "Анастасия",
+          "patronymic_name": "Рафаильевна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Крутикова",
+          "first_name": "Полина",
+          "patronymic_name": "Сергеевна",
+          "class": 11,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Кузнецова",
+          "first_name": "Татьяна",
+          "patronymic_name": "Ильинична",
+          "class": 7,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Нелюбина",
+          "first_name": "Наталья",
+          "patronymic_name": "Владимировна",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ РАБОТЫ",
+          "changed": true
+        },
+        {
+          "last_name": "Реймер",
+          "first_name": "Анна",
+          "patronymic_name": "Евгеньевна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 22991,
+        "number": "191131",
+        "title": "Изучение сорной растительности в условиях опытного участка",
+        "isCollective": false,
+        "section": {
+          "id": 438,
+          "title": "Тропой открытий В.И.Вернадского (5-7 класс). Естественнонаучная секция"
+        },
+        "authors": [
+          {
+            "name": "Кузнецова Татьяна Ильинична",
+            "age": 13,
+            "class": 7,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Нелюбина Наталья Владимировна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 22992,
+        "number": "191132",
+        "title": "К тайнам пестрого дрозда Zootera dauma",
+        "isCollective": false,
+        "section": {
+          "id": 424,
+          "title": "Зоология позвоночных (Zoology of the Vertebrata)"
+        },
+        "authors": [
+          {
+            "name": "Биттер Григорий Владимирович",
+            "age": 14,
+            "class": 8,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Биттер Владимир Андреевич",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      },
+      {
+        "id": 22995,
+        "number": "191135",
+        "title": "Определение зависимости повреждения древесных растений насекомыми вредителями от плотности и видового состава орнитофауны",
+        "isCollective": false,
+        "section": {
+          "id": 431,
+          "title": "Агробиология, агрохимия, защита растений (Agricultural Biology and Chemistry, Plant Protection)"
+        },
+        "authors": [
+          {
+            "name": "Реймер Анна Евгеньевна",
+            "age": 15,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Биттер Владимир Андреевич",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23006,
+        "number": "191146",
+        "title": "Лесоводственные аспекты интенсификации содействия естественному возобновлению сосны сибирской",
+        "isCollective": false,
+        "section": {
+          "id": 426,
+          "title": "Фитоценология и растительные сообщества (Phytocenology and plant communities)"
+        },
+        "authors": [
+          {
+            "name": "Конькова Анастасия Рафаильевна",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Давлятшина Нина Ивановна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      },
+      {
+        "id": 23014,
+        "number": "191154",
+        "title": "Изучение перехода токсикантов из почвы в растения",
+        "isCollective": false,
+        "section": {
+          "id": 431,
+          "title": "Агробиология, агрохимия, защита растений (Agricultural Biology and Chemistry, Plant Protection)"
+        },
+        "authors": [
+          {
+            "name": "Крутикова Полина Сергеевна",
+            "age": 17,
+            "class": 11,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Давлятшина Нина Ивановна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      }
+    ],
+    "organization": {
+      "name": "МАУ ДО «Станция юных натуралистов»",
+      "city": "КРАСНОТУРЬИНСК",
+      "country": "Россия",
+      "address_id": "24649",
+      "independence": "0",
+      "inIsslevodatel": true
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "20546",
+    "date": "2019-04-04 17:41:38",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Замалютин",
+          "first_name": "Вячеслав",
+          "patronymic_name": "Владимирович",
+          "class": 0,
+          "role": "",
+          "changed": true
+        },
+        {
+          "last_name": "Котельникова",
+          "first_name": "Анастасия",
+          "patronymic_name": "Львовна",
+          "class": 0,
+          "role": "",
+          "changed": true
+        },
+        {
+          "last_name": "Нефёдов",
+          "first_name": "Георгий",
+          "patronymic_name": "Михайлович",
+          "class": 0,
+          "role": "",
+          "changed": true
+        },
+        {
+          "last_name": "Петров",
+          "first_name": "Андрей",
+          "patronymic_name": "Дмитриевич",
+          "class": 0,
+          "role": "",
+          "changed": true
+        },
+        {
+          "last_name": "Фадеева",
+          "first_name": "Анна",
+          "patronymic_name": "Борисовна",
+          "class": 0,
+          "role": "",
+          "changed": true
+        },
+        {
+          "last_name": "Фёдоров",
+          "first_name": "Тимофей",
+          "patronymic_name": "Алексеевич",
+          "class": 0,
+          "role": "",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 23126,
+        "number": "191266",
+        "title": "Моделирование процесса синтеза аммиака для учебных целей",
+        "isCollective": false,
+        "section": {
+          "id": 433,
+          "title": "Химия (Chemistry)"
+        },
+        "authors": [
+          {
+            "name": "Петров Андрей Дмитриевич",
+            "age": 15,
+            "class": 10,
+            "changed": false
+          },
+          {
+            "name": "Нефёдов Георгий Михайлович",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          },
+          {
+            "name": "Фёдоров Тимофей Алексеевич",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Замалютин Вячеслав Вадимович",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      },
+      {
+        "id": 23131,
+        "number": "191271",
+        "title": "Эффективность ловушек Мёрике в Нижне-Свирском заповеднике в зависимости от отдушки детергента",
+        "isCollective": false,
+        "section": {
+          "id": 423,
+          "title": "Зоология беспозвоночных (Zoology of the Invertebrata)"
+        },
+        "authors": [
+          {
+            "name": "Котельникова Анастасия Львовна",
+            "age": 14,
+            "class": 9,
+            "changed": true
+          },
+          {
+            "name": "Фадеева Анна Борисовна",
+            "age": 14,
+            "class": 9,
+            "changed": true
+          },
+          {
+            "name": "Воскобойник Дария",
+            "age": 14,
+            "class": 9,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Петров Петр Николаевич",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      }
+    ],
+    "organization": {
+      "name": "Московская гимназия на Юго-Западе №1543",
+      "city": "МОСКВА",
+      "country": "Россия",
+      "address_id": "15005",
+      "independence": "0",
+      "inIsslevodatel": false
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "20544",
+    "date": "2019-04-04 13:28:47",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Архипова",
+          "first_name": "Маргарита",
+          "patronymic_name": "Андреевна",
+          "class": 9,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Жукова",
+          "first_name": "Елизавета",
+          "patronymic_name": "Сергеевна",
+          "class": 8,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Каргапольцева",
+          "first_name": "Марина",
+          "patronymic_name": "Сергеевна",
+          "class": 11,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Краснопевцева",
+          "first_name": "Виктория",
+          "patronymic_name": "Михайловна",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ ДЕЛЕГАЦИИ / РУКОВОДИТЕЛЬ РАБОТЫ",
+          "changed": true
+        },
+        {
+          "last_name": "Побоченко",
+          "first_name": "Ульяна",
+          "patronymic_name": "Ростиславовна",
+          "class": 8,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Яматина",
+          "first_name": "Алёна",
+          "patronymic_name": "Александровна",
+          "class": 7,
+          "role": "АВТОР",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 23067,
+        "number": "191207",
+        "title": "Рудеральные виды на экотропе заповедника Байкальский",
+        "isCollective": false,
+        "section": {
+          "id": 422,
+          "title": "Ботаника (Botany)"
+        },
+        "authors": [
+          {
+            "name": "Жукова Елизавета Сергеевна",
+            "age": 14,
+            "class": 8,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Жукова Елена Николаевна, Гамова Наталья Сергеевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23068,
+        "number": "191208",
+        "title": "Анализ динамики содержания бенз(а)пирена (C20H12) в атмосфере города Улан-Удэ",
+        "isCollective": false,
+        "section": {
+          "id": 425,
+          "title": "Охрана природы и окружающей среды (Nature Conservation and Environment Protection)"
+        },
+        "authors": [
+          {
+            "name": "Архипова Маргарита Андреевна",
+            "age": 15,
+            "class": 9,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Тюрюханова Наталья Владимировна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23070,
+        "number": "191210",
+        "title": "Маяки пристани Танхой - историческое наследие Прибайкалья",
+        "isCollective": false,
+        "section": {
+          "id": 448,
+          "title": "Региональное краеведение (Regional Studies)"
+        },
+        "authors": [
+          {
+            "name": "Побоченко Ульяна Ростиславовна",
+            "age": 15,
+            "class": 8,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Башнаева Татьяна Николаевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23075,
+        "number": "191215",
+        "title": "Заговори, и я скажу, кто ты…",
+        "isCollective": false,
+        "section": {
+          "id": 452,
+          "title": "Тропой открытий В.И.Вернадского (5-7 класс). Гуманитарная секция"
+        },
+        "authors": [
+          {
+            "name": "Яматина Алёна Александровна",
+            "age": 13,
+            "class": 7,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Латышева Людмила Александровна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23083,
+        "number": "191223",
+        "title": "Влияние космической погоды на растительный и животный мир Байкала и Южного Прибайкалья",
+        "isCollective": false,
+        "section": {
+          "id": 425,
+          "title": "Охрана природы и окружающей среды (Nature Conservation and Environment Protection)"
+        },
+        "authors": [
+          {
+            "name": "Каргапольцева Марина Сергеевна",
+            "age": 17,
+            "class": 11,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Ляхов Николай Николаевич",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      }
+    ],
+    "organization": {
+      "name": "ЧОУ Школа-интернат №21 ОАО \"РЖД\"",
+      "city": "ТАНХОЙ",
+      "country": "Россия",
+      "address_id": "4343",
+      "independence": "0",
+      "inIsslevodatel": false
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "20322",
+    "date": "2019-03-29 10:30:55",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Ведерникова",
+          "first_name": "Милана",
+          "patronymic_name": "Константиновна",
+          "class": 9,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Дубенок",
+          "first_name": "Светлана",
+          "patronymic_name": "Сергеевна",
+          "class": 9,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Королева",
+          "first_name": "Наталья",
+          "patronymic_name": "Юрьевна",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ ДЕЛЕГАЦИИ",
+          "changed": true
+        },
+        {
+          "last_name": "Лозовская",
+          "first_name": "Татьяна",
+          "patronymic_name": "Юрьевна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Надежда",
+          "first_name": "Николаевна",
+          "patronymic_name": "Енчинова",
+          "class": 0,
+          "role": "НАБЛЮДАТЕЛЬ",
+          "changed": true
+        },
+        {
+          "last_name": "Окорокова",
+          "first_name": "Ксения",
+          "patronymic_name": "Алексеевна",
+          "class": 9,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Софья",
+          "first_name": "Михайловна",
+          "patronymic_name": "Окорокова",
+          "class": 0,
+          "role": "НАБЛЮДАТЕЛЬ",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 22063,
+        "number": "190203",
+        "title": "Биопластики",
+        "isCollective": false,
+        "section": {
+          "id": 425,
+          "title": "Охрана природы и окружающей среды (Nature Conservation and Environment Protection)"
+        },
+        "authors": [
+          {
+            "name": "Окорокова Ксения Алексеевна",
+            "age": 14,
+            "class": 9,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Королёва Наталья Юрьевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      },
+      {
+        "id": 22064,
+        "number": "190204",
+        "title": "Бактериофаги против антибиотиков. За кем будущее?",
+        "isCollective": false,
+        "section": {
+          "id": 429,
+          "title": "Микробиология, клеточная биология и физиология растений (Microbiology, Cell Biology, Plant Physiology)"
+        },
+        "authors": [
+          {
+            "name": "Лозовская Татьяна Юрьевна",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Королева Наталья Юрьевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 22066,
+        "number": "190206",
+        "title": "Большая стирка или совсем не стирка",
+        "isCollective": false,
+        "section": {
+          "id": 437,
+          "title": "Инженерные исследования (Engineering research)"
+        },
+        "authors": [
+          {
+            "name": "Дубенок Светлана Сергеевна",
+            "age": 14,
+            "class": 9,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Королева Наталья Юрьевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 22067,
+        "number": "190207",
+        "title": "Микрофлора воздуха в школьных помещениях",
+        "isCollective": false,
+        "section": {
+          "id": 429,
+          "title": "Микробиология, клеточная биология и физиология растений (Microbiology, Cell Biology, Plant Physiology)"
+        },
+        "authors": [
+          {
+            "name": "Окорокова Ксения Алексеевна",
+            "age": 14,
+            "class": 9,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Площук Наталья Геннадьевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 22068,
+        "number": "190208",
+        "title": "Определение загрязнения воздуха по содержанию сульфатов в коре деревьев",
+        "isCollective": false,
+        "section": {
+          "id": 427,
+          "title": "Инженерная экология (Engineering ecology)"
+        },
+        "authors": [
+          {
+            "name": "Ведерникова Милана Константиновна",
+            "age": 14,
+            "class": 9,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Площук Наталья Геннадьевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      }
+    ],
+    "organization": {
+      "name": "НОЧУ \"ЦО \"Международная гимназия в Новых Вешках\"",
+      "city": "МЫТИЩИ",
+      "country": "Россия",
+      "address_id": "15006",
+      "independence": "0",
+      "inIsslevodatel": true
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "19867",
+    "date": "2019-03-25 15:43:27",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Кулагина",
+          "first_name": "Таисья",
+          "patronymic_name": "Юрьевна",
+          "class": 9,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Миронова",
+          "first_name": "Мария",
+          "patronymic_name": "Андреевна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Мухаметшин",
+          "first_name": "Сабир",
+          "patronymic_name": "Айратович",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Старжинская",
+          "first_name": "Юлия",
+          "patronymic_name": "Борисовна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 22171,
+        "number": "190311",
+        "title": "Влияние гипогеомагнитного поля на эмбриогенез кур Gallus gallus",
+        "isCollective": false,
+        "section": {
+          "id": 427,
+          "title": "Инженерная экология (Engineering ecology)"
+        },
+        "authors": [
+          {
+            "name": "Кулагина Таисия Юрьевна",
+            "age": 15,
+            "class": 9,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Феклисова Ольга Витальевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      },
+      {
+        "id": 22172,
+        "number": "190312",
+        "title": "Редактирование генома с использованием CRISPR/Cas9 системы",
+        "isCollective": false,
+        "section": {
+          "id": 430,
+          "title": "Фундаментальная медицина, профилактика заболеваний, медицинская генетика (Fundamental medicine, disease prevention, medical genetics)"
+        },
+        "authors": [
+          {
+            "name": "Мухаметшин Сабир Айратович",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          },
+          {
+            "name": "Старжинская Юлия Борисовна",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Леонова Елена Ивановна,",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      },
+      {
+        "id": 22174,
+        "number": "190314",
+        "title": "Влияние питьевого режима на изменения здоровья полости рта во время тренировок у спортсменов – школьников секции единоборств по «Ушу»",
+        "isCollective": false,
+        "section": {
+          "id": 432,
+          "title": "Физиология животных и человека, медицинская биохимия, медицинская биотехнология (Animal and human physiology, medical biochemistry, medical biotechnology)"
+        },
+        "authors": [
+          {
+            "name": "Миронова Мария Андреевна",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Миронова Людмила Александровна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": true
+      }
+    ],
+    "organization": {
+      "name": "УРОО СНИОО (отделение \"Исследователь нового века\")",
+      "city": "ИЖЕВСК",
+      "country": "Россия",
+      "address_id": "29620",
+      "independence": "0",
+      "inIsslevodatel": true
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "19447",
+    "date": "2019-03-22 17:38:55",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Давлетшин",
+          "first_name": "Александр",
+          "patronymic_name": "Альбертович",
+          "class": 11,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Козлова",
+          "first_name": "Мария",
+          "patronymic_name": "Михайловна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Коньков",
+          "first_name": "Андрей",
+          "patronymic_name": "Сергеевич",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ РАБОТЫ",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 22632,
+        "number": "190772",
+        "title": "Проблема типологии заимствованной лексики в итальянском языке (на материале рекламных текстов)",
+        "isCollective": false,
+        "section": {
+          "id": 445,
+          "title": "Лингвистика. Язык в современном мире (Linguistics)"
+        },
+        "authors": [
+          {
+            "name": "Гашич Филипп Велимирович",
+            "age": 13,
+            "class": 7,
+            "changed": true
+          },
+          {
+            "name": "Гашич Елизавета Велимировна",
+            "age": 16,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Образцова Юлия Николаевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 22739,
+        "number": "190879",
+        "title": "Перевод мемуаров Т.Бер и составление переводческого комментария",
+        "isCollective": false,
+        "section": {
+          "id": 445,
+          "title": "Лингвистика. Язык в современном мире (Linguistics)"
+        },
+        "authors": [
+          {
+            "name": "Выборнова Анастасия Тимуровна",
+            "age": 17,
+            "class": 11,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Образцова Юлия Николаевна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23021,
+        "number": "191161",
+        "title": "Разнообразие цвета глаз и волос, как пример изменчивости, которая детерменируется генами, но не зависит от давления внешней среды",
+        "isCollective": false,
+        "section": {
+          "id": 430,
+          "title": "Фундаментальная медицина, профилактика заболеваний, медицинская генетика (Fundamental medicine, disease prevention, medical genetics)"
+        },
+        "authors": [
+          {
+            "name": "Козлова Мария Михайловна",
+            "age": 0,
+            "class": 9,
+            "changed": true
+          },
+          {
+            "name": "Давлетин Александр Альбертович",
+            "age": 0,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Коньков Андрей Сергеевич",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23032,
+        "number": "191172",
+        "title": "Опыт расшифровки и комментирования дневников великой княгини Ксении Алесандровны",
+        "isCollective": false,
+        "section": {
+          "id": 446,
+          "title": "История: человек и событие (History: People and Events)"
+        },
+        "authors": [
+          {
+            "name": "Монахова Мария",
+            "age": 0,
+            "class": 8,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Лучевникова Татьяна Александровна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23125,
+        "number": "191265",
+        "title": "Оценка состояния коралловых рифов Северного Сулавеси (Индонезия) по видам-биоиндикаторам",
+        "isCollective": false,
+        "section": {
+          "id": 421,
+          "title": "Науки о водоемах (Water reservoirs Science)"
+        },
+        "authors": [
+          {
+            "name": "Хоткина Татьяна Константиновна",
+            "age": 0,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Смирнов Иван Алексеевич",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      }
+    ],
+    "organization": {
+      "name": "АНОО \"Гимназия Святителя Василия Великого\"",
+      "city": "ОДИНЦОВО",
+      "country": "Россия",
+      "address_id": "15009",
+      "independence": "0",
+      "inIsslevodatel": false
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "20417",
+    "date": "2019-03-30 17:48:26",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Голунцова",
+          "first_name": "Анастасия",
+          "patronymic_name": "Александровна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Егармина",
+          "first_name": "Виктория",
+          "patronymic_name": "Евгеньевна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Кучерявов",
+          "first_name": "Алексей",
+          "patronymic_name": "Александрович",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Наволокова",
+          "first_name": "Елизавета",
+          "patronymic_name": "Владимировна",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Никулин",
+          "first_name": "Алексей",
+          "patronymic_name": "Сергеевич",
+          "class": 10,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Очеретько",
+          "first_name": "Мария",
+          "patronymic_name": "Константиновна",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ РАБОТЫ",
+          "changed": true
+        },
+        {
+          "last_name": "Рытикова",
+          "first_name": "Наталия",
+          "patronymic_name": "Андреевна",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ ДЕЛЕГАЦИИ",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 23033,
+        "number": "191173",
+        "title": "Объективация женщин в массовой культуре на примере клипов компании Газгольдер",
+        "isCollective": false,
+        "section": {
+          "id": 440,
+          "title": "Человек в современном мире (The Individual in the Modern World)"
+        },
+        "authors": [
+          {
+            "name": "Наволокова Елизавета Владимировна",
+            "age": 18,
+            "class": 11,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Очеретько Мария Константиновна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23037,
+        "number": "191177",
+        "title": "Новое название",
+        "isCollective": false,
+        "section": {
+          "id": 443,
+          "title": "Искусство и литература (Fine Art and Literature)"
+        },
+        "authors": [
+          {
+            "name": "Кучерявов Алексей Александрович",
+            "age": 17,
+            "class": 10,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Очеретько Мария Константиновна",
+          "changed": true
+        },
+        "changed": false,
+        "coming": true
+      },
+      {
+        "id": 23042,
+        "number": "191182",
+        "title": "Исследование мотивации студентов ГБПОУ «26 КАДР» в учебной деятельности",
+        "isCollective": false,
+        "section": {
+          "id": 442,
+          "title": "Образование: история и современность (Education: Yesterday and Today) "
+        },
+        "authors": [
+          {
+            "name": "Голунцова Анастасия Александровна",
+            "age": 17,
+            "class": 11,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Очеретько Мария Константиновна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23044,
+        "number": "191184",
+        "title": "Политические предпочтения студентов ГБПОУ «26 КАДР»",
+        "isCollective": false,
+        "section": {
+          "id": 446,
+          "title": "История: человек и событие (History: People and Events)"
+        },
+        "authors": [
+          {
+            "name": "Егармина Виктория Евгеньевна",
+            "age": 18,
+            "class": 11,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Очеретько Мария Константиновна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      },
+      {
+        "id": 23048,
+        "number": "191188",
+        "title": "Феномен фэндома в современной культуре на примере манги «One Piece. Большой куш»",
+        "isCollective": false,
+        "section": {
+          "id": 444,
+          "title": "Философия и культурология (Philosophy and Cultural Studies)"
+        },
+        "authors": [
+          {
+            "name": "/cancel",
+            "age": 17,
+            "class": 10,
+            "changed": false
+          }
+        ],
+        "teacher": {
+          "name": "Очеретько Мария Константиновна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      }
+    ],
+    "organization": {
+      "name": "ГБПОУ \"26 КАДР\" 7СП",
+      "city": "МОСКВА",
+      "country": "Россия",
+      "address_id": "15005",
+      "independence": "0",
+      "inIsslevodatel": true
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  },
+  {
+    "id": "19417",
+    "date": "2019-03-19 19:05:29",
+    "delegation": {
+      "members": [
+        {
+          "last_name": "Трубкина",
+          "first_name": "Алина",
+          "patronymic_name": "Александровна",
+          "class": 11,
+          "role": "АВТОР",
+          "changed": true
+        },
+        {
+          "last_name": "Тюльпина",
+          "first_name": "Мария",
+          "patronymic_name": "Михайловна",
+          "class": 0,
+          "role": "РУКОВОДИТЕЛЬ ДЕЛЕГАЦИИ / РУКОВОДИТЕЛЬ РАБОТЫ",
+          "changed": true
+        }
+      ]
+    },
+    "works": [
+      {
+        "id": 21896,
+        "number": "190036",
+        "title": "Особенности стихосложения в лирике Геннадия Жукова",
+        "isCollective": false,
+        "section": {
+          "id": 443,
+          "title": "Искусство и литература (Fine Art and Literature)"
+        },
+        "authors": [
+          {
+            "name": "Трубкина Алина Александровна",
+            "age": 17,
+            "class": 11,
+            "changed": true
+          }
+        ],
+        "teacher": {
+          "name": "Тюльпина Мария Михайловна",
+          "changed": true
+        },
+        "changed": true,
+        "coming": false
+      }
+    ],
+    "organization": {
+      "name": "МБОУ \"Татариновская средняя общеобразовательная школа\" городского округа Ступино Московской области",
+      "city": "ТАТАРИНОВО",
+      "country": "Россия",
+      "address_id": "15632",
+      "independence": "0",
+      "inIsslevodatel": false
+    },
+    "arrival_date": null,
+    "arrival_time": null
+  }
+]
